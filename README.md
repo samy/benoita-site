@@ -1,7 +1,7 @@
 Benoita
 =======
 
-Benoita est un ouvrage écrit par Germain Waton de Ferry (1885-1956), mon arrière grand-mère.
+Benoita est un ouvrage écrit par Germaine Waton de Ferry (1885-1956), mon arrière grand-mère.
 
 Il est écrit en provencal et en français, chaque paragraphe trouvant sa traduction sur la page d'en face.
 
