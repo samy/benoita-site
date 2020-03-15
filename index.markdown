@@ -1,8 +1,3 @@
 ---
-layout: page
-image:
-  feature: 
-  credit: 
-  creditlink: 
+layout: home
 ---
-Germaine Waton de Ferry
