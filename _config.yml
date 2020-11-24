@@ -23,7 +23,7 @@ date_format : "%d/%m/%Y"
 description: >- # this means to ignore newlines until "baseurl:"
   Benoita, poème gavot de Germaine Waton de Ferry, en dialecte provençal de la vallée de l'Ubaye et illustré par Lisette Waton Jouvent
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://benoita.fr" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
