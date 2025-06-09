@@ -9,4 +9,4 @@ Le sujet de la bascule vers Gallica n'a pas avancé depuis 2020, mais je vais av
 Première étape: découper les feuilles non massicotées de l'exemplaire qui va me servir pour la numérisation
 
 
-<video autoplay src="https://github.com/user-attachments/assets/d5930f6e-cd8b-4c6e-9aa7-c65ea92a8f80" />
+<video autoplay muted src="https://github.com/user-attachments/assets/d5930f6e-cd8b-4c6e-9aa7-c65ea92a8f80" />
