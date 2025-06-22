@@ -10,6 +10,6 @@ Il s'agit d'un petit programme en Python, qui permet de générer ensuite des PD
 
 Petit exemple ci dessous avec une page issue de l'Ile Mystérieuse.
 
-<object data="https://benoita.fr/assets/exemple.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="https://benoita.fr/assets/exemple.pdf">Exemple</a> instead.</p>
+<object data="https://benoita.fr/assets/example.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Télécharger le fichier <a href="https://benoita.fr/assets/example.pdf">d'example</a>.</p>
 </object>
