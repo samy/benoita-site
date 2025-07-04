@@ -25,4 +25,4 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 # Performance-booster for watching directories on Windows
-gem "kramdown", ">= 2.3.0"
+# gem "kramdown", ">= 2.3.0"
